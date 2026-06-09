@@ -1,8 +1,10 @@
+
 #!/usr/bin/env bash
 #
 # FreeLLMAPI one-line installer (#250, idea by @StealthTensor).
 #
-#   curl -fsSL https://tashfeenahmed.github.io/freellmapi/install.sh | bash
+#   
+
 #
 # What it does:
 #   1. Checks for Docker + Compose.
